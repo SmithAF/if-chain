@@ -1,0 +1,16 @@
+{
+  "name": "if-chain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "./typings",
+  "scripts": {
+    "start": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Smith",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
